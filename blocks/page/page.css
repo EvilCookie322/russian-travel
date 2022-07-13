@@ -1,0 +1,8 @@
+.page {
+	display: grid;
+	margin: 0 auto;
+	max-width: 1600px;
+	background-color: #2A2C2F;
+	font-family: 'Inter', Arial, sans-serif;
+	color: #FFFFFF;
+}
