@@ -23,9 +23,9 @@
 
 @media screen and (max-width:767px) {
 	.places__place {
-		gap: 32px;		
+		gap: 32px;
 		grid-template-columns: 1fr;
-		grid-template-areas: 
+		grid-template-areas:
 		"title"
 		"url"
 		"image"
