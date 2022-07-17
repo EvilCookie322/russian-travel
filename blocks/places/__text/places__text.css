@@ -7,8 +7,15 @@
 	text-align: left;
 }
 
+@media screen and (max-width: 1279px) {
+	.places__text {
+		max-width: 456px;
+	}
+}
+
 @media screen and (max-width: 1023px) {
 	.places__text {
+		max-width: 352px;
 		font-size: 16px;
 		line-height: calc(26/16);
 	}
@@ -20,7 +27,7 @@
 	}
 }
 
-@media screen and (max-width: 541px) {
+@media screen and (max-width: 539px) {
 	.places__text {
 		max-width: 288px;
 	}
