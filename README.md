@@ -15,6 +15,7 @@
 
 * [Ссылка GH-Pages](https://evilcookie322.github.io/russian-travel/index.html)
 * [Ссылка на GitHub](https://github.com/EvilCookie322/how-to-learn)
+
 **Планы**
 
 Переделать с использованием препроцессора SASS.
