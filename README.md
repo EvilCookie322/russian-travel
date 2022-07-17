@@ -2,7 +2,7 @@
 
 ### Обзор
 * Описание
-* Ссылка на GH-Pages
+* Ссылки
 * Планы
 
 **Описание**
@@ -11,10 +11,10 @@
 Сделан с применением техник создания адаптивности: grid и flexbox. Адаптивен на разрешениях от 320px и до бесконечности.
 Почти pixel perfect.
 
-**Ссылка на GH-Pages**
+**Ссылки**
 
-* [Ссылка](https://evilcookie322.github.io/russian-travel/index.html)
-
+* [Ссылка GH-Pages](https://evilcookie322.github.io/russian-travel/index.html)
+* [Ссылка на GitHub](https://github.com/EvilCookie322/how-to-learn)
 **Планы**
 
 Переделать с использованием препроцессора SASS.
