@@ -1,0 +1,14 @@
+.places__website {
+	grid-area: url;
+	display: flex;
+	flex-direction: column;
+	gap: 12px;
+	justify-content: flex-end;
+	align-items: flex-start;
+}
+
+@media screen and (max-width: 767px) {
+	.places__website {
+		padding: 0 16px;
+	}
+}

@@ -1,8 +1,11 @@
 .page {
-	display: grid;
-	margin: 0 auto;
-	max-width: 1600px;
 	background-color: #2A2C2F;
 	font-family: 'Inter', Arial, sans-serif;
 	color: #FFFFFF;
+	text-rendering: optimizeLegibility;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale; 
 }

@@ -1,0 +1,13 @@
+.footer__coopyright {
+	margin: 0;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: calc(16/14);
+}
+
+@media screen and (max-width: 767px) {
+	.footer__coopyright {
+		font-size: 14px;
+		line-height: calc(14/14);
+	}	
+}
