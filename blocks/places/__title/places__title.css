@@ -8,6 +8,7 @@
 
 @media screen and (max-width: 1023px) {
 	.places__title {
+		max-width: 330px;
 		font-size: calc(42px + (72 - 42 + 42 * 0.7) * ((100vw - 768px) / 1023));
 		line-height: calc(46/42);
 	}
@@ -15,6 +16,7 @@
 
 @media screen and (max-width: 767px) {
 	.places__title {
+		max-width: 402px;
 		padding: 0 16px;
 		font-size: calc(32px + (42 - 32 + 32 * 0.7) * ((100vw - 320px) / 767));
 		line-height: calc(35/32);

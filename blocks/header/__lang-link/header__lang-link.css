@@ -6,15 +6,11 @@
 }
 
 .header__lang-link:hover {
-	opacity: .5;
-}
-
-.header__lang-link:first-child {
-	border-bottom: 1.5px solid #FFFFFF;
+	opacity: .8;
 }
 
 .header__lang-link:last-child {
-	padding-left: 18px;
+	margin-left: 18px;
 }
 
 @media screen and (max-width: 767px) {

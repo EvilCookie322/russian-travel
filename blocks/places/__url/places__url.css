@@ -5,4 +5,11 @@
 	line-height: 1.7;
 	color: #AAAAAA;
 	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+@media screen and (max-width: 767px) {
+	.places__url {
+		line-height: 1;
+	}
 }

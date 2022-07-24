@@ -3,7 +3,6 @@
 	font-weight: 400;
 	font-size: 18px;
 	line-height: calc(22/18);
-	white-space: pre-line;
 }
 
 @media screen and (max-width: 767px) {
@@ -14,8 +13,7 @@
 }
 
 @media screen and (max-width: 541px) {
-	.cover__subtitle {		
-		white-space: normal;
+	.cover__subtitle {
 		max-width: 270px;
 	}
 }
