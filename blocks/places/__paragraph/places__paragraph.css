@@ -6,5 +6,11 @@
 	grid-area: text;
 }
 
+@media screen and (max-width: 1023px) {
+	.places__paragraph {
+		gap: 25px;
+	}
+}
+
 /* TODO
 на 767 улучшить адаптивность */

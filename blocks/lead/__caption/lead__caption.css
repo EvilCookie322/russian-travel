@@ -11,12 +11,14 @@
 
 @media screen and (max-width: 1009px) {
 	.lead__caption {
+		margin-top: 4px;
 		padding-left: calc(24px - (48 - 24) * ((100vw - 768px) / (1024 - 768)));
 	}
 }
 
 @media screen and (max-width: 767px) {
 	.lead__caption {
+		margin-top: 6px;
 		padding-left: calc(16px - (24 - 16) * ((100vw - 320px) / (768 - 320)));
 	}
 }

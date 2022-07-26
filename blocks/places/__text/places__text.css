@@ -1,6 +1,5 @@
 .places__text {
 	margin: 0;
-	grid-area: text;
 	font-weight: 400;
 	font-size: 18px;
 	line-height: calc(29/18);
@@ -23,11 +22,12 @@
 
 @media screen and (max-width: 767px) {
 	.places__text {
+		max-width: 490px;
 		padding: 0 16px;
 	}
 }
 
-@media screen and (max-width: 539px) {
+@media screen and (max-width: 530px) {
 	.places__text {
 		max-width: 288px;
 	}

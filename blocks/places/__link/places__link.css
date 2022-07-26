@@ -2,8 +2,6 @@
 	font-weight: 400;
 	font-size: 18px;
 	line-height: calc(22/18);
-	border-bottom: 1.5px solid #fff;
-	text-decoration: none;
 	transition: opacity .5s ease;
 }
 
