@@ -3,15 +3,8 @@
 	
 }
 
-@media screen and (max-width:1023px) {
-	.header__logo {
-		object-position: 0 -5px;
-	}
-}
-
 @media screen and (max-width: 767px) {
 	.header__logo {
-		object-position: 0 0;
 		max-width: 142px;
 	}
 }

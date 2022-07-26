@@ -45,7 +45,6 @@
 @media screen and (max-width: 900px) {
 	.cover__link {
 		min-height: 480px;
-		/*Размер шрифта не изменяется на макетах 768-1280 */
 	}
 }
 
@@ -58,5 +57,11 @@
 @media screen and (max-width: 539px) {
 	.cover__link {
 		min-height: 300px;
+	}
+}
+
+@media screen and (max-width: 450px) {
+	.cover__link {
+		min-height: 200px;
 	}
 }
